@@ -11,12 +11,12 @@ $ open https://ru.wikipedia.org/wiki/Vim
 - [x] 1. Создать публичный репозиторий с названием **lab12** на сервисе **GitHub**
 - [x] 2. Выполнить инструкцию учебного материала
 - [x] 3. Ознакомиться со ссылками учебного материала
-- [x] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
+$ export GITHUB_USERNAME=kirill-isaev
 $ export HUNTER_ROOT=Alexey01M/workspace/projects/hunter
 ```
 
